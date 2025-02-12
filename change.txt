@@ -1,0 +1,2 @@
+search element in movies and series section
+display image instead of MY PROFILE
